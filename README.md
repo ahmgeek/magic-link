@@ -1,8 +1,8 @@
 # MagicLink
 
-Magic link is slack-like login link, instead of the old way to login or to reset you password, a mail with Magic Link will be sent to the user to verify his authenticity.
+Magic link is slack-like login link, instead of the old way to login or to reset users' password, a mail with Magic Link will be sent to the user's mail in order to verify his authenticity.
 
-  > The gem is being developed in the open, it's not finished yet links for the project development material will be provided soon.
+  > The gem is being developed in the open, it's not done yet links for the project development material will be provided soon.
 
 ## Installation
 
@@ -19,6 +19,7 @@ Magic link is slack-like login link, instead of the old way to login or to reset
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/ahmgeek/magic_link.
+
 
 ## License
 
