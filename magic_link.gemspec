@@ -5,7 +5,7 @@ require 'magic_link/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "magic_link"
-  spec.version       = MagicLink::VERSION
+  spec.version       = VERSION
   spec.authors       = ["Ahmad A.Elghany"]
   spec.email         = ["tolpa1@gmail.com"]
 
