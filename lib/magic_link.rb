@@ -51,7 +51,7 @@ class MagicLink
     { token: token, time: Time.parse(time) }
   end
 
-  def uset_auth_token
+  def user_auth_token
     token_splitter[:token]
   end
 end
